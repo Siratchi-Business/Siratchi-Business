@@ -1,5 +1,5 @@
 ---
-👋 Hi! I’m @Siratchi-Business （￣︶￣）↗  
+- 👋 Hi! I’m @Siratchi-Business （￣︶￣）↗  
 - 👀 Interests: I'm passionate about developing in various fields, especially music and video games. 🎮🎶  
 - 🌱 Currently learning: **Java**, **Python**, and **LUA**. Ready to take on new challenges! 🚀  
 - 💞️ Collaborating on: the **Roblox** marketplace and video game development. Always open to new ideas. 🎮🛠️  
