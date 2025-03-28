@@ -46,8 +46,8 @@ I am a **junior developer** passionate about technology and programming. I love 
 
 ### 🚀 Dynamic Achievements
 - 🔥 **Total Contributions:** ![Contributions](https://img.shields.io/github/contributions/Siratchi-Business?color=yellow&label=Total%20Contributions)
-- 🌟 **Stars Earned:** ![Stars](https://img.shields.io/github/stars/Siratchi-Business?color=brightgreen&label=Stars)
-- 🍴 **Repositories Forked:** ![Forks](https://img.shields.io/github/forks/Siratchi-Business?color=blue&label=Forks)
+- 🌟 **Stars Earned:** ![Stars](https://img.shields.io/github/stars/Siratchi-Business?style=social)
+- 🍴 **Repositories Forked:** ![Forks](https://img.shields.io/github/forks/Siratchi-Business?style=social)
 - 🏆 **Followers:** ![Followers](https://img.shields.io/github/followers/Siratchi-Business?color=red&label=Followers)
 
 ## 🫂 Friends & Contributors
