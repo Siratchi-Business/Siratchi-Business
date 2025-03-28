@@ -1,68 +1,41 @@
----
-# 👋 Hi! I’m @Siratchi-Business ^_^
+# 👋 Welcome! `</programmers>`
 
-   ╭━━━╮
-   ┃   ┃
-   ┃  〇┃    I’m @Siratchi-Business, a tech enthusiast and creative developer. 
-   ┃   ┃
-   ╰━━━╯
+## 🚀 About Me
+I am a junior developer passionate about technology and programming. I love working on innovative projects and sharing my knowledge with the community.
 
-- **Interests**: I'm passionate about developing in various fields, especially music and video games. =^D
-  - I love creating immersive worlds and game mechanics, as well as experimenting with new musical compositions and sound design.
-  - Always looking for new challenges and eager to explore the limits of technology and creativity.
+## 📚 Table of Contents
+- [🔧 Technologies & Tools](#-technologies--tools)
+- [📊 GitHub Statistics](#-github-statistics)
+- [🏆 Notable Achievements](#-notable-achievements)
+- [📫 Contact](#-contact)
 
-   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀(◕‿◕✿)
-   ⠀⠀⠀⠀⠀⠀⠀⠀A fan of both cutting-edge tech and anime culture.
+## 🔧 Technologies & Tools
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-- **Currently learning**: Java, Python, and LUA. Ready to take on new challenges! B^)
-  - Improving back-end programming skills and diving into artificial intelligence and game frameworks.
-  - My focus is on data analysis and machine learning with Python, and Lua scripting for Roblox game development.
+## 📊 GitHub Statistics
+### 📈 General Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siratchi-Business&show_icons=true&theme=dark)
 
-  ╭━━━━╮
-  ┃  ┏━┛  ┃    Programming, gaming, and tech—my personal triangle of passion. 
-  ╰━━━┛╯
+### 📌 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siratchi-Business&layout=compact&theme=dark)
 
-- **Collaborating on**: Roblox marketplace and game development. Open to new ideas and innovative projects. =^)
-  - Working on various indie game projects, contributing to creative spaces and pushing boundaries.
-  - If you have a game idea, let's collaborate!
+### 📊 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Siratchi-Business&theme=github-dark)
 
-   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
-   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
-   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+### 🏅 Profile Summary
+![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siratchi-Business&theme=github_dark)
 
-- **Professional contact**: shado1siratchi9business8@gmail.com
-- **Personal contact (Discord)**: shadosiratchi918
-  - Reach out for collaboration, consulting, or creative discussions.
-  - Always open to hearing new ideas and brainstorming together!
-
-   [⟦ Connect ⟧](https://www.linkedin.com/in/siratchi)
-
-- **Pronouns**: ♂ He/Him ♂
-  - Creating a welcoming environment where everyone can thrive, regardless of identity.
-
-   (｡•́‿•̀｡)
-
-- **Fun fact**: Despite my tough personality, I deeply care about my loved ones and always strive to improve in what I do. ^.^
-  - Always learning, growing, and striving for personal and professional development.
-  - Passionate about pushing creative boundaries, whether it’s coding, music, or art.
-
-  (ღ✪v✪)ღ    ~ Always with a smile!
-
-- **Goals for the Future**: My goal is to integrate my love for music and video games into unique, immersive experiences.
-  - Planning to release my own game projects and soundtracks in the future.
-  - Building a strong online presence and fostering connections in the gaming and tech communities.
-
-  ██████╗
-  ╚════██╗
-  █████╔╝    I aim to build worlds with my own hands, both virtual and musical.
-  ╚═════╝
-
-- **Social Media**: Stay connected and follow my journey!
-  - Twitter: [@SiratchiDev](https://twitter.com/SiratchiDev)
-  - Instagram: [@siratchi_music](https://www.instagram.com/siratchi_music)
-  - YouTube: [Siratchi Creations](https://www.youtube.com/SiratchiCreations) (Game dev & music tutorials)
-  - LinkedIn: [siratchi](https://www.linkedin.com/in/siratchi)
+## 🏆 Notable Achievements
+- 🎯 Contributor to open-source projects
+- 🏅 Finalist in development hackathons
+- 🌟 Maintainer of popular GitHub projects
+- 📖 Author of tutorials and technical guides
 
 ---
+⭐ Feel free to follow me and explore my projects! 🚀
 
