@@ -1,4 +1,4 @@
-# 👋 Welcome! `</programmers>`
+<h1 align="center" >👋 Welcome! `</programmers>`</h1>
 
 ## 🚀 About Me
 I am a **junior developer** passionate about technology and programming. I love working on **innovative projects** and sharing my knowledge with the community.
