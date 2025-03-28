@@ -55,19 +55,16 @@ Here are some amazing developers I collaborate with:
 
 👥 **Friends & Collaborators:**
 - [@Friend1](https://github.com/Friend1)
-- [@Friend2](https://github.com/Friend2)
-- [@Friend3](https://github.com/Friend3)
+- Under Construction...
 
 🛠 **Top Contributors on My Projects:**
 - [@Contributor1](https://github.com/Contributor1)
-- [@Contributor2](https://github.com/Contributor2)
-- [@Contributor3](https://github.com/Contributor3)
+- Under Construction...
 
 ## 🏛️ Organizations
 I am a proud member of these organizations:
 - 🚀 **[Organization1](https://github.com/Organization1)**
-- 🏫 **[Organization2](https://github.com/Organization2)**
-- 🌍 **[Organization3](https://github.com/Organization3)**
+- Under Construction...
 
 ---
 ⭐ Feel free to follow me and explore my projects! 🚀
