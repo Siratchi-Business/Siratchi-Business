@@ -31,10 +31,7 @@ I am a junior developer passionate about technology and programming. I love work
 ![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siratchi-Business&theme=github_dark)
 
 ## 🏆 Notable Achievements
-- 🎯 Contributor to open-source projects
-- 🏅 Finalist in development hackathons
-- 🌟 Maintainer of popular GitHub projects
-- 📖 Author of tutorials and technical guides
+![Trophies](https://github-profile-trophy.vercel.app/?username=Siratchi-Business&theme=darkhub)
 
 ---
 ⭐ Feel free to follow me and explore my projects! 🚀
